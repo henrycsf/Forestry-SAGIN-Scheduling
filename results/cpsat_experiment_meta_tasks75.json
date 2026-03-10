@@ -1,0 +1,13 @@
+{
+  "task_amount": 75,
+  "stage2_status": "OPTIMAL",
+  "stage2_max_load": 44654,
+  "stage3_status": "OPTIMAL",
+  "stage3_makespan_s": 43154,
+  "stage3_s_min": 0,
+  "stage3_s_max": 43154,
+  "stage1_time_s": 8.219636917114258,
+  "stage2+3_time_s": 15.302846670150757,
+  "total_time_s": 23.522483587265015,
+  "timestamp": "2026-01-15T14:34:00.220050"
+}
